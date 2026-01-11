@@ -25,7 +25,7 @@ This capstone project implements an AI system that automatically generates struc
 3. Access the website, input the title of the PPT, and then click the generate button.
 
 ## Project Demonstration Video
-???
+![Demo gif image](path/to/your/image.gif)
 
 ## Results
 - Validation loss decreases steadily over 2 epochs
