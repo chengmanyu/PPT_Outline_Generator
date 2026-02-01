@@ -1,5 +1,5 @@
 # PPT Generator
-Business presentations, classroom reports, and online courses necessitate a substantial amount of time for layout design and image creation. Current tools (such as PowerPoint and Illustrator) still demand manual adjustments. This project aims to develop an **end-to-end AI PPT generator**: by inputting plain text, it can automatically generate `.pptx` files complete with layout, images, colour schemes and charts. This will enhance efficiency by over 5 times and is applicable to the fields of education, marketing, and remote work. 
+Business presentations, classroom reports, and online courses necessitate a substantial amount of time for layout design and image creation. Current tools (such as PowerPoint and Illustrator) still demand manual adjustments. This project aims to develop an **end-to-end AI PPT outline generator**: by inputting plain text, it can automatically generate ppt outline . This will enhance efficiency and is applicable to the fields of education, marketing, and remote work. 
 
 
 # PPT Outline Generator using Fine-Tuned Qwen2-1.5B
