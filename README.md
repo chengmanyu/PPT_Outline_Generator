@@ -16,7 +16,7 @@ This capstone project implements an AI system that automatically generates struc
 
 ## Requirements
 - It must be a Windows system.
-- It is recommended that the device be equipped with an RTX3060 GPU or a higher - end GPU for optimal performance.
+- It is recommended that the device be equipped with an RTX3060 GPU or a higher-end GPU for optimal performance.
 
 
 ## How to Run
@@ -31,6 +31,19 @@ This capstone project implements an AI system that automatically generates struc
 - Validation loss decreases steadily over 2 epochs
 - Generated outlines are coherent, structured, and topic-relevant
 - Low perplexity indicates good language modeling performance
+
+### Model Download (Hugging Face)
+
+**Recommended version (full model)**：
+→ [ChengManYu/qwen2-1.5b-ppt-outline-merged](https://huggingface.co/ChengManYu/qwen2-1.5b-ppt-outline-merged)
+
+**LoRA version (can continue training)**：
+→ [ChengManYu/qwen2-1.5b-ppt-outline-lora](https://huggingface.co/ChengManYu/qwen2-1.5b-ppt-outline-lora)
+
+### 線上體驗
+
+- **Kaggle Notebook**（Can be executed directly）：[https://www.kaggle.com/code/manyucheng/ppt-outline-generator-with-fine-tuned-qwen2-1-5b]
+- **Gradio Demo**（Coming soon）
 
 ## Future Work
 - Increase dataset size and diversity
