@@ -40,10 +40,10 @@ This capstone project implements an AI system that automatically generates struc
 **LoRA version (can continue training)**：
 → [ChengManYu/qwen2-1.5b-ppt-outline-lora](https://huggingface.co/ChengManYu/qwen2-1.5b-ppt-outline-lora)
 
-### 線上體驗
+### Online experience
 
 - **Kaggle Notebook**（Can be executed directly）：https://www.kaggle.com/code/manyucheng/ppt-outline-generator-with-fine-tuned-qwen2-1-5b
-- **Gradio Demo** ： https://chengmanyu-ppt-ai-outline.hf.space/?__theme=system&deep_link=XlEI3BziXws
+- **Gradio Demo**： 👉 **[Click here to try](https://chengmanyu-ppt-ai-outline.hf.space/)**   （The first loading may take 280 seconds because the model is being loaded, and it will be faster afterward.）
 
 ## Future Work
 - Increase dataset size and diversity
