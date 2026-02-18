@@ -43,7 +43,7 @@ This capstone project implements an AI system that automatically generates struc
 ### 線上體驗
 
 - **Kaggle Notebook**（Can be executed directly）：https://www.kaggle.com/code/manyucheng/ppt-outline-generator-with-fine-tuned-qwen2-1-5b
-- **Gradio Demo**（Coming soon）
+- **Gradio Demo** ： https://chengmanyu-ppt-ai-outline.hf.space/?__theme=system&deep_link=XlEI3BziXws
 
 ## Future Work
 - Increase dataset size and diversity
