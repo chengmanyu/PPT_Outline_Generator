@@ -30,7 +30,6 @@ This capstone project implements an AI system that automatically generates struc
 ## Results
 - Validation loss decreases steadily over 2 epochs
 - Generated outlines are coherent, structured, and topic-relevant
-- Low perplexity indicates good language modeling performance
 
 ### Model Download (Hugging Face)
 
